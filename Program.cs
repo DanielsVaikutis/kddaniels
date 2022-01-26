@@ -12,6 +12,7 @@ namespace kddaniels
         {
             Console.WriteLine("Hi daniels");
             Console.WriteLine("Hi daniels1");
+            Console.WriteLine("Hi daniels2");
         }
     }
 }
