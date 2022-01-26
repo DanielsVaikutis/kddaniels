@@ -10,6 +10,8 @@ namespace kddaniels
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hi daniels");
+            Console.WriteLine("Hi daniels1");
         }
     }
 }
